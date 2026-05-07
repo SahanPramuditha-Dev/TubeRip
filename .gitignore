@@ -1,0 +1,30 @@
+# Python cache and temp files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Editor and OS files
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Tooling caches
+.pytest_cache/
+.ruff_cache/
+.tmp/
+.tuberip/
+
+# Logs
+*.log

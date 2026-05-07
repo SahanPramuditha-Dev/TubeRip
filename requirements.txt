@@ -1,0 +1,5 @@
+yt-dlp>=2024.12.13
+requests>=2.31.0
+Pillow>=10.0.0
+# Optional dependency for clipboard monitoring
+# pyperclip>=1.8.0
